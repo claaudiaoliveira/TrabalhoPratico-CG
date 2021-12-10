@@ -2,6 +2,7 @@ Trabalho Prático desenvolvido para a disciplina de Computação Gráfica
 
 Alunas:
 Nome: Cláudia de Oliveira Ramos RA: 1914294
+Nome: Caroline Marques Barbosa RA: 2053640
 
 Descrição:
 Aplicação para lançamento de foguete. No início é possível controlar o astronauta dentro da plataforma, 
